@@ -1,3 +1,4 @@
+# THIS DOESN'T WORK PROPERLY
 # Find the greatest common denominator of two numbers
 # using Euclid's algorithm
 
