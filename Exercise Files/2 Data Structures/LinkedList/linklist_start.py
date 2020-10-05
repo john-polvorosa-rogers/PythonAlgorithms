@@ -1,6 +1,6 @@
 # Linked list example
 
-
+# We know this is a single linked list because of the self.next value is set to none to initialize
 # the Node class
 class Node(object):
     def __init__(self, val):
