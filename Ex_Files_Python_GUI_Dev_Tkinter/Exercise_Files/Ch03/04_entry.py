@@ -20,6 +20,5 @@ entry.state(['disabled'])
 # entry.state(['readonly'])
 entry.state(['!disabled'])
 
-entry.get()
 
 root.mainloop()
